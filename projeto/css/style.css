@@ -1,0 +1,30 @@
+body{
+    background-color: #05003E;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+header{
+    text-align: center;
+}
+h1{
+   font-size: 75px;
+}
+nav{
+    font-size: 20px;
+}
+ul li::marker{
+    color: white;
+}
+a{
+    color: gray;
+}
+h2{
+    color: aqua;
+    font-size: 60px;
+}
+#white{
+    font-size: 25px;
+    color: white;
+}
